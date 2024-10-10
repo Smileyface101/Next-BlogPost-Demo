@@ -148,6 +148,11 @@ main {
   gap: 1rem;
 }
 
+.post-image{
+  width: 8rem;
+  height: 6rem;
+  position: relative;
+}
 .post {
   display: flex;
   gap: 1rem;
